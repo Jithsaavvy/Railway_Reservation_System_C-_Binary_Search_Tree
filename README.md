@@ -1,4 +1,4 @@
-**Railway_Reservation_System_C++_Binary_Search_Tree **
+### Railway_Reservation_System_C plusplus_Binary_Search_Tree
 
 This project is all about developing the railway reservation system that is implemeted using C++ language that includes the concept of Binary Search Tree and File handling.
 
